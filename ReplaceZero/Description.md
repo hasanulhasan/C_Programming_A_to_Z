@@ -1,3 +1,5 @@
+# ReplaceZero
+
 Given an integer N, followed by an array containing N numbers.
 
 Each numbers will be either 0 or 1.
@@ -8,19 +10,23 @@ You will have to toggle the X_th value in the array. Toggle means if the value i
 
 Then you have to print the array.
 
-Input Format
+##### Input Format
 
 The first line will contain a single integer N.
 The second line will contain N integers.
 The third line will contain a single integer X.
+```http
 Constraints
 
 1 <= N, X <= 100000
+```
+
 Each N numbers will be either 0 or 1.
-Output Format
+
+##### Output Format
 
 Print the array after updating.
-
+```bash
 Sample Input 
 
 5
