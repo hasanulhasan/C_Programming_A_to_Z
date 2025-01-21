@@ -20,7 +20,7 @@ See input samples for better understanding.
 
 The input will contain a single integer N.
 
-```http
+```bash
 Constraints
 1 <= N <= 9
 ```

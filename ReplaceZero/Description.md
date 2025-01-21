@@ -15,7 +15,7 @@ Then you have to print the array.
 The first line will contain a single integer N.
 The second line will contain N integers.
 The third line will contain a single integer X.
-```http
+```bash
 Constraints
 
 1 <= N, X <= 100000
