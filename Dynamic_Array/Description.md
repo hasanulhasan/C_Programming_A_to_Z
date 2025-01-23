@@ -34,3 +34,7 @@ Sample Input
 Sample Output
 
 1 4 2 6 9
+```
+### Topic
+
+##### Dynamic Array, Pointer
